@@ -1,0 +1,17 @@
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\bin\Debug\IneStoree.exe.config
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\bin\Debug\IneStoree.exe
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\bin\Debug\IneStoree.pdb
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\bin\Debug\IneStoree.xml
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\bin\Debug\MySql.Data.dll
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\obj\Debug\IneStoree.vbproj.AssemblyReference.cache
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\obj\Debug\IneStoree.Billing.resources
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\obj\Debug\IneStoree.Items.resources
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\obj\Debug\IneStoree.Loading.resources
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\obj\Debug\IneStoree.Login.resources
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\obj\Debug\IneStoree.Resources.resources
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\obj\Debug\IneStoree.vbproj.GenerateResource.cache
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\obj\Debug\IneStoree.vbproj.CoreCompileInputs.cache
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\obj\Debug\IneStoree.vbproj.CopyComplete
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\obj\Debug\IneStoree.exe
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\obj\Debug\IneStoree.xml
+C:\Users\kharyll\source\repos\IneStoree\IneStoree\obj\Debug\IneStoree.pdb
